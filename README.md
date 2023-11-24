@@ -25,3 +25,8 @@ Utiliza el modelo "small" de la biblioteca Whisper de OpenAI, proporcionando res
     python video_srt.py
 
 ## Capturas de Pantalla
+![image](https://github.com/fcocasa/whisper-create-sub-from-video/assets/44985620/ad10b3bd-078d-4419-b2a7-8e8686acd354)
+
+## Estado del Proyecto
+
+En desarrollo activo. ¡Tu ayuda y retroalimentación son bienvenidas y fundamentales para hacer de este proyecto una solución aún mejor!
