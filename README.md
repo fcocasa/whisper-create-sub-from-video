@@ -7,9 +7,9 @@ Este repositorio aloja un script escrito en Python que utiliza la biblioteca Whi
 ### Fácil de Usar
 Con solo ejecutar el script video_srt.py se abre una ventana del sistema para elegir el video, el sistema procesa el video, generando un archivo de audio y subtítulos en la misma carpeta original del video y con el mismo nombre que el video original.
 #### Ejemplo: 
-* Video: C:/Users/user/Downloads/capa de transporte.mp4
-* Audio: C:/Users/user/Downloads/capa de transporte.mp3
-* Subtitulos: C:/admin/user/Downloads/capa de transporte.srt
+* Video -> C:/Users/user/Downloads/capa de transporte.mp4
+* Audio -> C:/Users/user/Downloads/capa de transporte.mp3
+* Subs -> C:/admin/user/Downloads/capa de transporte.srt
 
 ### Tecnología
 Utiliza el modelo "small" de la biblioteca Whisper de OpenAI, proporcionando resultados similares al modelo "medium" pero con una considerable mejora en velocidad y peso.
