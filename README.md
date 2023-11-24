@@ -9,7 +9,19 @@ Con solo ejecutar el script video_srt.py se abre una ventana del sistema para el
 #### Ejemplo: 
 * Video -> C:/Users/user/Downloads/capa de transporte.mp4
 * Audio -> C:/Users/user/Downloads/capa de transporte.mp3
-* Subs -> C:/admin/user/Downloads/capa de transporte.srt
+* Subs -> C:/Users/user/Downloads/capa de transporte.srt
 
 ### Tecnología
 Utiliza el modelo "small" de la biblioteca Whisper de OpenAI, proporcionando resultados similares al modelo "medium" pero con una considerable mejora en velocidad y peso.
+
+## Tecnologías Utilizadas
+* Lenguaje de Programación -> Python
+* Biblioteca Principal -> Whisper (https://github.com/openai/whisper)
+
+## Instrucciones de Uso
+### Instalar Dependencias
+    pip install -r requirements.txt
+### Ejecutar el Script
+    python video_srt.py
+
+## Capturas de Pantalla
