@@ -52,5 +52,5 @@ for index, value in enumerate(result['segments']):
 '''    
     srt += sub
 
-with open(SRT_FILE,'w+') as file:
+with open(SRT_FILE,'w+', encoding="utf-8") as file:
     file.write(srt)
